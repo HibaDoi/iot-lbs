@@ -1,0 +1,35 @@
+[
+    {
+      "SensorID": "sensor_001",
+      "SensorType": "Temperature/Humidity",
+      "SensorName": "DHT11",
+      "Description": "A basic, ultra low-cost digital temperature and humidity sensor.",
+      "Specifications": {
+        "Model": "DHT11",
+        "Accuracy": {
+          "Temperature": "+/- 2°C",
+          "Humidity": "+/- 5% RH"
+        }
+      }
+    },
+    {
+      "SensorID": "sensor_002",
+      "SensorType": "Motion",
+      "SensorName": "PIR",
+      "Description": "A passive infrared sensor that detects motion by measuring changes in the infrared levels emitted by surrounding objects.",
+      "Specifications": {
+        "Model": "PIR Model X"
+      }
+    },
+    {
+      "SensorID": "sensor_003",
+      "SensorType": "Flame",
+      "SensorName": "Fire sensor",
+      "Description": "A sensor designed to detect and respond to the presence of a flame or fire.",
+      "Specifications": {
+        "Model": "Fire Sensor Model Y"
+      }
+    }
+    
+  ]
+  
